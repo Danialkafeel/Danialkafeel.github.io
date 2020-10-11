@@ -1,0 +1,75 @@
+body{
+	/*background-color: #6e0019;*/
+	background-image: url("images/mesh.jpg");
+	/*color:white;*/
+	margin: 30px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.footer-top { padding: 60px 0; background: #333; text-align: left; color: #aaa; }
+/*h1{
+	font-family: Arial;
+	font-size: 5em;
+	text-align: center;
+	margin-top: 0;
+}
+h2{
+	font-family: Arial;
+	font-size: 3em;
+	margin-left: 30px;
+}*/
+
+/*div{
+	background-color: #4c3b1d;
+	margin-top: 15px;
+	margin-left: 30px;
+	margin-right: 30px;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 1.3em;
+	padding: 13px;
+}*/
+/*img:hover{
+	transform: scale(1.01);
+	border-radius: 10%;
+}*/
+
+/*button{
+  font-size: 20px;
+  border: none;
+  background-color: white;
+  padding: 15px 32px;
+  text-align: center;
+}
+*/
+.jumbotron{
+	margin-top: 8em;
+	margin-bottom: 10px;
+	margin-left: 8em;
+	margin-right: 8em;
+	/*background:none;*/
+	opacity: 0.8;
+	padding: 0;
+	/*overflow: hidden;*/
+	text-align: center;
+}
+.bottomm{
+	position: fixed;
+	bottom: 2px;
+}
+.nav-item{
+	margin-left: 50px;
+}
+.footer{
+	position: fixed;
+	bottom: 20px;
+	width: 100%;	
+	color: white;
+	background-color: black;
+}
+.big-icon {
+	width: 40px;
+    font-size: 32px;
+}
+.centerr{
+	text-align: center;
+}
